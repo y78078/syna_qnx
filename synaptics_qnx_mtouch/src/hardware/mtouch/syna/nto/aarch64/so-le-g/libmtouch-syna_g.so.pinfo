@@ -1,0 +1,11 @@
+STATE=Experimental Release
+INSTALLDIR=aarch64le/lib/
+INSTALLNAME=libmtouch-syna_g.so.1
+NAME=libmtouch-syna_g.so
+USER=jex
+HOST=jex-VirtualBox
+DATE=2024/06/18-10:05:09-CST
+VERSION=QNX_SDP710
+TAGID=apps
+SYMLINK=libmtouch-syna_g.so
+DESCRIPTION=Synaptics Touch Driver
